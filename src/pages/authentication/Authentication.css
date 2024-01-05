@@ -1,0 +1,16 @@
+.auth-multi-layout {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fafafa;
+
+  .auth-box {
+    width: 460px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.25);
+  }
+}
